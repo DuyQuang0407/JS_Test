@@ -1,0 +1,34 @@
+-------- Giải thích code trực tiếp trong file main.js
+
+
+
+Kết quả của đoạn code:
+
+    ==SEQUENTIAL START==
+starting slow promise
+slow promise is done
+slow
+starting fast promise
+fast promise is done
+fast
+    ==CONCURRENT START with await==
+starting slow promise
+starting fast promise
+fast promise is done
+slow promise is done
+slow
+fast
+    ==CONCURRENT START with Promise.all==
+starting slow promise
+starting fast promise
+fast promise is done
+slow promise is done
+slow
+fast
+    ==PARALLEL with await Promise.all==
+starting slow promise
+starting fast promise
+fast promise is done
+fast
+slow promise is done
+slow

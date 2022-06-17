@@ -1,0 +1,57 @@
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+    right: 0;
+    bottom: 0;
+}
+
+div:nth-child(2).green {
+    left: 300px;
+    top: 0;
+}
+
+div:nth-child(3).green {
+    top: 200px;
+}
+
+div:nth-child(4).yellow {
+    left: 0;
+    bottom: 0;
+}
+
+div:nth-child(5).yellow {
+    left: 300px;
+    top: 200px;
+}
+
+.container {
+    position: relative;
+    width: 600px;
+    height: 600px;
+    border: 1px solid red;
+}
+
+.container div {
+    position: absolute;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+}
+
+.rectangle {
+    width: 300px;
+    height: 100px;
+}

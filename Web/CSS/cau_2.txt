@@ -1,0 +1,2 @@
+RGBA có độ làm mờ
+còn RGB thì không

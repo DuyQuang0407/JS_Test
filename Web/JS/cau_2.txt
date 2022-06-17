@@ -1,0 +1,5 @@
+Kết quả = Yah
+
+function f có b = 9 , ++b thì giá trị sẽ được tăng lên trước là b = 10. Mà 10 < 10 => saiii  => kết quả là Yah.
+
+**(? b : 'Yah'): nghĩa là đúng sẽ trả về b, sai sẽ trả về Yah

@@ -1,0 +1,6 @@
+- Phương thức insertAdjacentHTML() sẽ chèn mã HTML vào một vị trí được chỉ định.
+- Có 3 ví trí:
+    + afterbegin: Sau phần tử bắt đầu (phần tử con đầu tiên)
+    + afterend: Sau phần tử
+    + beforebegin: Trước phần tử
+    + beforeend: Trước khi kết thúc phần tử (phần tử con cuối cùng)

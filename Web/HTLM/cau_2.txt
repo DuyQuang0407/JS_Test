@@ -1,0 +1,3 @@
+<input> : Dùng để nhập dữ liệu chuỗi ngắn (trên 1 dòng).
+
+<textarea> : Thẻ textarea được sử dụng để hiển thị trường nhập chuỗi dài (nhiều dòng).

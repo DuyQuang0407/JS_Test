@@ -1,0 +1,1 @@
+Sử dụng  switch-case để thay thế if - else => code sẽ gọn gàng hơn rất nhiều

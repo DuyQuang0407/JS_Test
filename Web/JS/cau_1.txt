@@ -1,0 +1,4 @@
+1 - for: for(let i = 0; i < n ; i++){}
+2 - for in : for (let i in ['a', 'b', 'c']) {}
+3 - for of : for (let val of 'str') {}
+4 - forEach : ['a', 'b', 'c'].forEach(val => console.log(val))
