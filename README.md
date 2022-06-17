@@ -1,1 +1,1 @@
-# JS_Test
+Trong các thư mục trên chứa đầy đủ file txt: trả lời câu hỏi lý thuyết, và có cả code được chia theo từng mục, từng bài.
